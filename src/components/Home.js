@@ -7,44 +7,44 @@ function Home() {
     <Container>
       <Section
         title='Model S'
-        description='Order Online for Touchless Delivery'
+        description='Schedule a Test Drive'
         backgroundImg='model-s.jpg'
         leftBtnText='Custom Order'
         rightBtnText='Existing Inventory'
       />
       <Section
         title='Model Y'
-        description='Order Online for Touchless Delivery'
+        description='Schedule a Test Drive'
         backgroundImg='model-y.jpg'
         leftBtnText='Custom Order'
         rightBtnText='Existing Inventory'
       />
       <Section
         title='Model 3'
-        description='Order Online for Touchless Delivery'
+        description='Schedule a Test Drive'
         backgroundImg='model-3.jpg'
         leftBtnText='Custom Order'
         rightBtnText='Existing Inventory'
       />
       <Section
         title='Model X'
-        description='Order Online for Touchless Delivery'
+        description='Schedule a Test Drive'
         backgroundImg='model-x.jpg'
         leftBtnText='Custom Order'
         rightBtnText='Existing Inventory'
       />
       <Section
-        title='Lowest cost solar panels in America'
-        description='Money-back guarantee'
+        title='Solar Panels'
+        description='Lowest Cost Solar Panels in America'
         backgroundImg='solar-panel.jpg'
-        leftBtnText='Custom Order'
+        leftBtnText='Order Now'
         rightBtnText='Learn More'
       />
       <Section
-        title='Solar for new roofs'
-        description='Solar roof costs less then a new roof plus solar panels'
+        title='Solar Roof'
+        description='Produce Clean Energy From Your Roof'
         backgroundImg='solar-roof.jpg'
-        leftBtnText='Custom Order'
+        leftBtnText='Order Now'
         rightBtnText='Learn More'
       />
       <Section

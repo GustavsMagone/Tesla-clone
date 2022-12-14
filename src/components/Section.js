@@ -49,14 +49,14 @@ const Buttons = styled.div`
 
 const ButtonGroup = styled.div`
   display: flex;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
   @media (max-width: 768px) {
     flex-direction: column;
   }
 `
 
 const LeftButton = styled.div`
-  background-color: rgba(23, 26, 32, 0.8);
+  background-color: rgba(23, 26, 32, .9);
   height: 40px;
   width: 256px;
   margin: 8px;
@@ -64,7 +64,7 @@ const LeftButton = styled.div`
   display: flex;
   justify-content: center;
   align-items: center;
-  border-radius: 100px;
+  border-radius: 5px;
   opacity: 0.85;
   text-transform: uppercase;
   font-size: 12px;
@@ -75,6 +75,7 @@ const RightButton = styled(LeftButton)`
   background-color: #fff;
   opacity: 0.65;
   color: #000;
+  font-weight: 600;
 `
 
 const DownArrow = styled.img`
